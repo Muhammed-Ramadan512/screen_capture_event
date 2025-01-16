@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'package:screen_capture_event/screen_capture_event.dart';
 
 void main() {
@@ -9,7 +8,7 @@ void main() {
 }
 
 class ExampleScreenListener extends StatefulWidget {
-  const ExampleScreenListener({Key? key}) : super(key: key);
+  const ExampleScreenListener({Key key}) : super(key: key);
 
   @override
   _ExampleScreenListenerState createState() => _ExampleScreenListenerState();

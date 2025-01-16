@@ -1,5 +1,11 @@
+## 1.2.0
+* Upgrade AGP 8.0, Thanks to @ibrahimmohamed2411
+* Samsung Screen Record Fixes, thanks to @acike
+* Fix exceptions [#25](https://github.com/nizwar/screen_capture_event/issues/25), thanks to @kimiaki704 
+
 ## 1.1.1
 * Fix Exception when addScreenShotListener (Android) Thanks to @juarezfranco
+
 ## 1.1.0
 * Use pemission handler without 3rd party plugin
 * Fix more bugs
